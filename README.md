@@ -119,6 +119,7 @@ Aquí solo se manda el short URL extraído del `LinkModel.shortUrl` y te redirec
 
 ---
 
-Para más información sobre la API y su uso, consulta el codigo completo.
+Para más información sobre la API y su uso, consulta el codigo completo. **Endpoint:** `/swagger.html`
 
 ```
+
